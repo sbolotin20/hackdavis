@@ -1,8 +1,24 @@
+.header {
+    padding: 10px;
+    text-align: center;
+    background: #EFF6E0;
+    color: white;
+    font-size: 15px;
+  }
+
 body {
-    background-color: lightblue;
+    background-color: #AEC3B0;
   }
   
   h1 {
-    color: navy;
+    font-family: " Helvetica neue";
+    font-weight: 700; 
+    color: white;
     margin-left: 20px;
+  }
+
+  p {
+    font-family: "Helvetica neue";
+    font-weight: 400; 
+    color: white;
   }
