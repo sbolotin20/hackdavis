@@ -1,2 +1,2 @@
 # hackdavis
-blood panel stats and adivce
+blood panel stats and advice
